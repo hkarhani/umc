@@ -1,11 +1,6 @@
 #!/bin/bash
-#
-# Script to Install
-# Linux System Tools and
-# Basic Python Components
-#
-# Python for Finance, 2nd ed.
-# (c) Dr. Yves J. Hilpisch
+
+# Original Work of Dr. Yves J. Hilpisch
 #
 # GENERAL LINUX
 apt-get update  # updates the package index cache
